@@ -9,9 +9,9 @@ function AboutSection() {
       <section id='about' className='w-full py-[160px] px-10 bg-[#222222] flex flex-col md:flex-row justify-center'>
         
         <div className='mx-auto w-[50%] px-[16px] flex flex-col items-start text-left'>
-          <p className={`${caveat.className} text-[48px]`}>Taha Ahmed</p>
+          <p className={`${caveat.className} text-[48px]`}>Sadia Naseer</p>
           
-          <p className={`${caveat.className} text-[30px] mt-2 mb-6 text-light-beige text-center lg:text-start text-3xl text-[#a9927d]`}>Freelance Web Developer</p>
+          <p className={`${caveat.className} text-[30px] mt-2 mb-6 text-light-beige text-center lg:text-start text-3xl text-[#f542cb]`}>Frontend Web Developer</p>
           
           <p className='text-[18px] mb-8'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore, dolorum odio magni possimus corrupti molestiae labore voluptatum ut autem deleniti facilis tempora commodi dolores debitis repellendus excepturi nisi? Quisquam suscipit iste facere molestiae saepe voluptates.</p>
         

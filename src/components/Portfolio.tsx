@@ -7,9 +7,9 @@ function Portfolio() {
     <>
       <section id="portfolio" className="w-full py-36 px-8 text-center bg-[#0a0908]">
         <h4 className={`${caveat.className} text-white text-4xl lg:text-5xl`}>
-          <span className="text-[#A9927D]">M</span>y{" "}
-          <span className="text-[#A9927D]">L</span>ast{" "}
-          <span className="text-[#A9927D]">W</span>ork
+          <span className="text-[#f542cb]">M</span>y{" "}
+          <span className="text-[#f542cb]">L</span>ast{" "}
+          <span className="text-[#f542cb]">W</span>ork
         </h4>
 
         <p className="w-[90%] lg:w-[80%] mt-6 mx-auto text-sm lg:text-lg leading-6">

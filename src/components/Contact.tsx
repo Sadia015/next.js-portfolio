@@ -9,8 +9,8 @@ function Contact() {
         <div className="text-center text-white">
           <h4 className="text-4xl lg:text-5xl font-[Caveat]">
             <span>
-              <span className="text-[#a9927d] ">C</span>ontact{' '}
-              <span className="text-[#a9927d] ">M</span>e
+              <span className="text-[#f542cb] ">C</span>ontact{' '}
+              <span className="text-[#f542cb] ">M</span>e
             </span>
           </h4>
           <p className="w-[90%] lg:w-[80%] mt-6 mx-auto text-sm lg:text-lg leading-6">
@@ -24,20 +24,20 @@ function Contact() {
             <div className="flex flex-col justify-center items-start text-center">
               
               <div className="flex mb-12 items-start">
-                <MdEmail className="text-2xl text-[#a9927d] mr-4" />
+                <MdEmail className="text-2xl text-[#f542cb] mr-4" />
                 <div className="text-start">
                   <p className="text-white">Have a question?</p>
                   <p className="my-2 text-[#616161]">I am here to help you</p>
-                  <p className="text-[#a9927d] ">Email me at thomas.david@mail.com</p>
+                  <p className="text-[#f542cb] ">Email me at thomas.david@mail.com</p>
                 </div>
               </div>
 
               <div className="flex mb-12 items-start">
-                <MdLocationOn className="text-2xl text-[#a9927d] mr-4" />
+                <MdLocationOn className="text-2xl text-[#f542cb] mr-4" />
                 <div className="text-start">
                   <p className="text-white">Current Location</p>
                   <p className="my-2 text-[#616161]">Mansoura, Egypt</p>
-                  <p className="text-[#a9927d] ">serving clients worldwide</p>
+                  <p className="text-[#f542cb] ">serving clients worldwide</p>
                 </div>
               </div>
 
@@ -81,7 +81,7 @@ function Contact() {
                 />
               </div>
 
-              <Link href="#home" className="py-3 px-8 rounded-lg text-lg text-white bg-[#5e503f] transition hover:bg-[#7d674c]  mt-4">
+              <Link href="#home" className="py-3 px-8 rounded-lg text-lg text-white bg-[#f542cb] transition hover:bg-[#6e1e5c]  mt-4">
                 Send message
               </Link>
             </form>
